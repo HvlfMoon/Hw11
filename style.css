@@ -1,6 +1,6 @@
 @font-face {
 font-family: "witchwoode";
-src: url(./assets/Witchwoode-Regular.ttf);
+src: url("./assets/Witchwoode-Regular.ttf");
 }
 
 * {
